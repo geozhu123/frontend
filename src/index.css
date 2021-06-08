@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.coin-info-row {
+  display: grid;
+  font-size: small;
+  grid-template-columns: 16.67% 16.67% 16.67% 16.67% 16.67% 16.67% 
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.test {
+  display: none;
+}
